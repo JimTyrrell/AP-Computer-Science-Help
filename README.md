@@ -1,10 +1,12 @@
 # Prerequisties for getting started with this.
 
-1. Ensure you have VS Code downloaded and installed
-2. Ensure you have Java 11 installed
-3. Ensure you have installed Maven
+1. Ensure you have Java 11 installed
+2. Ensure you have installed Maven
+3. Ensure you have VS Code downloaded and installed
 4. Install the Java Extension
-5. Install the Maven Extension
+4. Install the Maven Extension
+4. Install the JUnit Test Extension
+4. Install the Markdown Extension
 
 When making a program you need to decide on the nouns, i.e. the variables that will hold state.  You also need to think about the verbs, or the things that will give life to your program.
 
