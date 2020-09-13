@@ -6,7 +6,7 @@
 4. Install the Java Extension
 5. Install the Maven Extension
 
-When making a program you need to decide on the nouns, i.e. the variables that will hold state.  You also need to think about the verbs, or the things that will give live to your program.
+When making a program you need to decide on the nouns, i.e. the variables that will hold state.  You also need to think about the verbs, or the things that will give life to your program.
 
 Use good objected oriented design tradecraft when designing your object.  
  - Think about the constructor and the value/s that should be passed in.  
